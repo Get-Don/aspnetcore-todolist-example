@@ -16,3 +16,5 @@
 - Entity Framework Core (MS-SQL)
 - Dapper (MySql)
 - FluentValidation
+
+![TodoList](https://github.com/user-attachments/assets/35ec1fe2-cd59-4cc7-a296-48f1b6f1a234)
